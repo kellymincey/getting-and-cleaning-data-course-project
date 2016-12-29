@@ -1,5 +1,5 @@
 # getting-and-cleaning-data-course-project
-Course project deliverables for the Coursera course 'Getting and Cleaning Data'
+# Course project deliverables for the Coursera course 'Getting and Cleaning Data'
 This script performs the following steps:
 1.) Downloads the needed zip file and puts it into the data folder
 2.) Creates a combined file of all observations, activity data, and subject IDs
